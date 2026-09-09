@@ -14,7 +14,7 @@ No topo do `<script>` em `index.html`:
 
 ```js
 const CONFIG = {
-  whatsappNumber: "5593999999999", // número do consultor (DDI 55 + DDD + número)
+  whatsappNumber: "5593991415334", // número do consultor (DDI 55 + DDD + número)
   webhookUrl: "https://editor.leaderaperformance.com.br/webhook/house-premium"
 };
 ```
